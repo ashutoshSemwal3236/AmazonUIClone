@@ -1,1 +1,1 @@
-# AMazon Homepage UI clone developed using HTMl and CSS
+# Amazon Homepage UI clone developed using HTML and CSS
